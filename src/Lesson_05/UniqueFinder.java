@@ -3,6 +3,8 @@ package Lesson_05;
 public class UniqueFinder {
     public static void main(String[] args) {
 
+        //new comment for GitHub
+
         int [] userArray = {11};
 
         System.out.println("Количество уникальных чисел в массиве равно " + uniqueCount (userArray));
