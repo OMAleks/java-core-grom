@@ -1,6 +1,5 @@
 package Lesson_06;
 
-import java.sql.SQLOutput;
 import java.util.Date;
 
 public class User {

@@ -1,4 +1,4 @@
-package Lesson_07;
+package Lesson_07.ClassWork;
 
 import Lesson_06.Car;
 
